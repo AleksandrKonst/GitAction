@@ -12,7 +12,7 @@ public class TestCalculator {
 
     @Test
     void additionalSub(){
-        assertEquals(2, calculator.Sub(3,1));
+        assertEquals(2, calculator.Sub(4,2));
     }
 
     @Test
