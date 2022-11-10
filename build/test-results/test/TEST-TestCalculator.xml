@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestCalculator" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-10T16:02:47" hostname="LAPTOP-LGQJF7H4" time="0.026">
+  <properties/>
+  <testcase name="additionalSum()" classname="TestCalculator" time="0.026"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
